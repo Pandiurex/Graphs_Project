@@ -1,0 +1,3 @@
+Carlos|Estrada|8|23|SK1FB
+Carlos|Estrada|3|23|SK1FB
+Carlos|Estrada|2|23|SK1FB
